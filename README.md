@@ -33,7 +33,7 @@ Below there are some examples of how you will actually use the libraries to conv
 
 Or
 
-    {{#emojione}}My emoji  ':beers:' text.{{/emojione}}
+    {{#emojione}}My emoji :beers: text.{{/emojione}}
 
 ## Information
 
