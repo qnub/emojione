@@ -47,7 +47,7 @@ For meteor package bugreports:
 
 For original Emoji One library bugreports:
 
- *  https://github.com/Ranks/emojione
+ *  https://github.com/Ranks/emojione/issues
 
 ## Licenses
 
