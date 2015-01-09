@@ -1,4 +1,6 @@
 #![Emoji One Logo](http://git.emojione.com/assets/png/1F40C.png) Meteor Emoji One package
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/qnub/emojione?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > bringing you [emojione.com](http://emojione.com/) & [emoji.codes](http://emoji.codes/)
 
 The web's first and only complete open source emoji set. It is 100% free and super easy to integrate.
