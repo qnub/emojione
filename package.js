@@ -1,7 +1,7 @@
 Package.describe({
   name: 'qnub:emojione',
   summary: 'Meteor Package of http://www.emojione.com/ set',
-  version: '0.0.3',
+  version: '1.5.1',
   git: 'https://github.com/qnub/emojione.git',
   name: "qnub:emojione"
 });
@@ -11,12 +11,7 @@ Package.onUse(function(api) {
   api.addFiles('assets/css/emojione.css', 'client');
 
   api.use('templating', 'client');
-  api.addFiles('lib/js/emojione.js', ['client']);
-  api.addFiles('qnub:emojione.js', ['client']);
-});
-
-Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('qnub:emojione');
-  api.addFiles('qnub:emojione-tests.js');
+  
+  api.addFiles('lib/js/emojione.js');
+  api.addFiles('lib/meteor/emojione-client.js');
 });
