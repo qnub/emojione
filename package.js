@@ -1,7 +1,7 @@
 Package.describe({
   name: 'qnub:emojione',
   summary: 'Meteor Package of http://www.emojione.com/ set',
-  version: '1.5.1',
+  version: '1.5.1_1',
   git: 'https://github.com/qnub/emojione.git',
   name: "qnub:emojione"
 });
