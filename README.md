@@ -1,5 +1,6 @@
+# NOW DEPRECATED because of official [emojione:emojione](https://atmospherejs.com/emojione/emojione) package released
 
-# ![Emoji One Logo](http://git.emojione.com/assets/png/1F40C.png) Meteor Emoji One package
+## ![Emoji One Logo](http://git.emojione.com/assets/png/1F40C.png) Meteor Emoji One package
 
 bringing you [emojione.com](http://emojione.com/) & [emoji.codes](http://emoji.codes/)
 
@@ -48,7 +49,7 @@ $ composer require emojione/emojione
 
 #### Meteor
 ```
-meteor add qnub:emojione
+meteor add emojione:emojione
 ```
 
 
